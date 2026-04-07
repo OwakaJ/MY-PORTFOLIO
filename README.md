@@ -1,2 +1,3 @@
-# MY-PORTFOLIO
-My Cybersecurity Portfolio
+For 20 years, I lived at the intersection of pressure and precision as a live radio host. In that booth, I learned that a single unverified click or a second of dead air could unravel hours of work. Today, I am channeling that same adrenaline into cybersecurity.
+
+My background in Media and Communication taught me how to translate complex threats into clear, urgent action—a skill just as critical in a Security Operations Center as it was in a broadcast studio. Now, as I complete my cybersecurity certificate, I am bridging my instinct for risk assessment with technical skills in [insert specific tools, e.g., network defense, Python, or Linux]. I want to protect the infrastructure that keeps information flowing, because after two decades of speaking to the public, I know exactly what’s at stake when that flow breaks.
